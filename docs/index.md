@@ -31,3 +31,7 @@ This paper describes our [quantitative survey](quant_survey.md) and large-scale 
 ### Galen Weld
 
 [Galen Weld](https://galenweld.com/) is a PhD student at the University of Washington's Allen School of Computer Science and Engineering.
+
+# Contact
+
+For questions, or if you find an issue on this site, please let Galen Weld know via email: `gweld` AT `cs` DOT `washington` DOT `edu`.
