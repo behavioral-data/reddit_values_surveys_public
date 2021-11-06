@@ -1,4 +1,4 @@
-# Quantiative Survey and Dataset
+# Quantitative Survey and Dataset
 
 
 ## Overview
