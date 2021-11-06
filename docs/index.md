@@ -4,6 +4,10 @@ What does it mean to make an online community "better"? In this project, we seek
 
 We make anonymized responses from the quantitative survey public to support future research. Details and downloads for this dataset are available [here](quant_survey.md).
 
+# Dataset
+
+We make anonymized responses from the [quantitative survey](quant_survey.md) public to support future research. Details and downloads for this dataset are available [here](quant_survey.md).
+
 # Papers
 
 ### [Making Online Communities 'Better': A Taxonomy of Community Values on Reddit](https://arxiv.org/pdf/2109.05152.pdf)
