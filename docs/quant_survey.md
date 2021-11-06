@@ -43,19 +43,19 @@ Please note that a small number of responses have been removed at the request of
 
 The downloadable dataset consists of 27 columns (9 values x 3 dimensions) plus 4 overall reddit usage questions.
 
-## Importance
+#### Importance
 
 The Importance columns are named *e.g.*, `quality_rank` for the Importance of Quality. Each value is on an integer scale 1-9, where 1 is the most important and 9 is the least important.
 
-## Current State
+#### Current State
 
 The Current State columns are named *e.g.*, `quality_current` for the Current State of Quality. Each value is on an integer scale 0-11, where 0 is the lowest possible current state, and 11 is the highest.
 
-## Desired Change
+#### Desired Change
 
 The Desired Change columns are named *e.g.*, `quality_change` for the Desired Change of Quality. Each value is on an integer scale -1 to +1, where -1 is decrease, 0 is "keep as is", and +1 is increase.
 
-## Overall Reddit Usage
+#### Overall Reddit Usage
 
 In addition, we include 4 columns describing participants' overall reddit usage:
 
