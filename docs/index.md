@@ -22,7 +22,7 @@ This paper describes our [quantitative survey](quant_survey.md) and large-scale 
 
 ### Tim Althoff
 
-[Tim Althoff](http://timalthoff.de/) is an Assistant Professor at the University of Washington's Allen School of Computer Science and Engineering, where he runs the [Social Futures Lab](http://bdata.uw.edu/).
+[Tim Althoff](http://timalthoff.de/) is an Assistant Professor at the University of Washington's Allen School of Computer Science and Engineering, where he runs the [Behavioral Data Science Lab](http://bdata.uw.edu/).
 
 ### Amy X. Zhang
 
