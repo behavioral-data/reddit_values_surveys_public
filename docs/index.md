@@ -20,17 +20,17 @@ This paper describes our [quantitative survey](quant_survey.md) and large-scale 
 
 # People
 
-### Tim Althoff
+### Galen Weld
 
-[Tim Althoff](http://timalthoff.de/) is an Assistant Professor at the University of Washington's Allen School of Computer Science and Engineering, where he runs the [Behavioral Data Science Lab](http://bdata.uw.edu/).
+[Galen Weld](https://galenweld.com/) is a PhD student at the University of Washington's Allen School of Computer Science and Engineering.
 
 ### Amy X. Zhang
 
 [Amy X. Zhang](https://homes.cs.washington.edu/~axz/) is an Assistant Professor at the University of Washington's Allen School of Computer Science and Engineering, where she runs the [Social Futures Lab](https://social.cs.washington.edu/).
 
-### Galen Weld
+### Tim Althoff
 
-[Galen Weld](https://galenweld.com/) is a PhD student at the University of Washington's Allen School of Computer Science and Engineering.
+[Tim Althoff](http://timalthoff.de/) is an Assistant Professor at the University of Washington's Allen School of Computer Science and Engineering, where he runs the [Behavioral Data Science Lab](http://bdata.uw.edu/).
 
 # Contact
 
