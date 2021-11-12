@@ -14,7 +14,7 @@ We make anonymized responses from the [quantitative survey](quant_survey.md) pub
 
 This paper describes our [qualitative survey](qual_survey.md) and taxonomy of community values.
 
-### [What Makes Online Communities 'Better’? Measuring Values, Consensus, and Conflict across Thousands of Subreddits](https://link_todo)
+### [What Makes Online Communities 'Better’? Measuring Values, Consensus, and Conflict across Thousands of Subreddits](https://arxiv.org/pdf/2111.05835)
 
 This paper describes our [quantitative survey](quant_survey.md) and large-scale analysis of responses.
 
