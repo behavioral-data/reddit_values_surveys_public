@@ -27,14 +27,21 @@ We make these anonymized responses public, along with some additional questions 
 
 ## Paper
 
-For more details, see our [paper on arXiv](https://link_todo).
+For more details, see our [paper on arXiv](https://arxiv.org/pdf/2111.05835).
 
 ## Dataset
 
 Download our dataset [here](https://github.com/behavioral-data/reddit_values_surveys_public/raw/master/subreddit_values.csv). If you use this dataset for your own academic work, please be sure to cite our paper:
 
 ```
-bibtex todo
+@misc{weld2021makes,
+      title={What Makes Online Communities 'Better'? Measuring Values, Consensus, and Conflict across Thousands of Subreddits}, 
+      author={Galen Weld and Amy X. Zhang and Tim Althoff},
+      year={2021},
+      eprint={2111.05835},
+      archivePrefix={arXiv},
+      primaryClass={cs.SI}
+}
 ```
 
 Please note that a small number of responses have been removed at the request of the participants or for confidentiality concerns. 
